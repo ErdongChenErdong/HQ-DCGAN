@@ -10,3 +10,6 @@ Sudden Cardiac Death Holter Database: https://physionet.org/content/sddb/1.0.0/
 
 ## HQ-DCGAN
 It has been uploaded
+
+## PENNYLANE
+https://docs.pennylane.ai/en/stable/
